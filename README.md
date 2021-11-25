@@ -3,15 +3,10 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://github.com/Ileriayo/ileriayo/blob/master/images/header.gif" alt="header"/>
-</div>
-<p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Roman Salnikov</h2>
 <p align="center">
   <samp>I'm a Unity Game Developer. Participated in 2 game jams. In one of them took 5th place.
-You can check my game's video
 
 </p>
 
