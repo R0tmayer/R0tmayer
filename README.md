@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is **Roman Salnikov**!
 
 <!--
 **R0tmayer/R0tmayer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
