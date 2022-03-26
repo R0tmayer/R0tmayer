@@ -29,12 +29,12 @@
 <hr>
 
 <h2 align="center">Linkedin</h2>
-<p align="center" align='right'>
+<p align="center" align='center'>
   <a target="_blank"href="https://www.linkedin.com/in/roman-salnikov-4416a8217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2 align="center">📫 Reach me on</h2>
-<p align="center" align='right'>
+<p align="center" align='center'>
   <a target="_blank"href="https://mail.google.com/mail/?view=cm&source=mailto&to=r.salnikov1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="https://t.me/R0tmayer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="https://www.instagram.com/roman.salnikov_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
