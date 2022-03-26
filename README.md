@@ -6,7 +6,7 @@
 
 <h2 align="center"> 👨‍💻 Roman Salnikov</h2>
 <p align="center">
-  <samp>I'm a Unity Game Developer. Participated in 2 game jams. In one of them took 5th place.
+  <samp>I'm a Unity Game Developer
 </p>
 
 <hr>
