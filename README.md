@@ -33,5 +33,7 @@
     <a target="_blank"href="https://www.instagram.com/roman.salnikov_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="roman-salnikov-4416a8217" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/roman-salnikov-4416a8217?trk=profile-badge">Roman Salnikov</a></div>
               
