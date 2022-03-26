@@ -26,6 +26,13 @@
   <a target="_blank"href="https://www.youtube.com/channel/UCN7Xt6Qv9RmgUMtcMWJUtZg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
 
+<hr>
+
+<h2 align="center">LINKEDIN</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://www.linkedin.com/in/roman-salnikov-4416a8217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
 <h2 align="center">📫 Reach me on</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://mail.google.com/mail/?view=cm&source=mailto&to=r.salnikov1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
