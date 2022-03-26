@@ -28,7 +28,7 @@
 
 <hr>
 
-<h2 align="center">LINKEDIN</h2>
+<h2 align="center">Linkedin</h2>
 <p align="center" align='right'>
   <a target="_blank"href="https://www.linkedin.com/in/roman-salnikov-4416a8217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
