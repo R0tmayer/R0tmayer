@@ -1,42 +1,42 @@
-<!--
-**Ileriayo/ileriayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->  
+<h2 align="left">Hi there👋! <br><br>I'm a backend developer from Vladivostok, Russia [UTC+10] 🚀 working since 2020 </h2>
 
-<h1 align="center"> 👋 </h1>
+<h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=emotion" height="35" alt="csharp logo"/> Job<h3/>
+<div align="left"> I’m currently working as full-time backend developer in FinTech company </div>
+<br/>
 
-<h2 align="center"> 👨‍💻 Roman Salnikov</h2>
-<p align="center">
-  <samp>I'm a Unity Game Developer
-</p>
+<h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=codepen" height="35" alt="csharp logo"/> Hobby<h3/>
+<div align="left">As hobby I'm learning technologies on my PetProjeсt <a href="https://github.com/R0tmayer/GamePlaza">GamePlaza</a></div>
+<br/>
 
-<hr>
+<h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=htmx" height="35" alt="csharp logo"/> Stack<h3/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="35" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="35" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
+  <img src="https://skillicons.dev/icons?i=pinia" height="35" alt="pinia logo"  />
+</div>
+<br/>
+
+<h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=devto" height="35" alt="csharp logo"/> Tools<h3/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=rider" height="35" alt="rider logo"  />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="35" alt="webstorm logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=obsidian" height="35" alt="obsidian logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="obsidian logo"  />
+</div>
+
+<h3 align="center">Some stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=R0tmayer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R0tmayer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
-<h2 align="center"> 🛠 Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
 
 
-<hr>
 
-<h2 align="center">💬 My Youtube</h2>
-<p align="center" align='right'>
-  <a target="_blank"href="https://www.youtube.com/channel/UCN7Xt6Qv9RmgUMtcMWJUtZg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h2 align="center">Linkedin</h2>
-<p align="center" align='center'>
-  <a target="_blank"href="https://www.linkedin.com/in/roman-salnikov-4416a8217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-
-<h2 align="center">📫 Reach me on</h2>
-<p align="center" align='center'>
-  <a target="_blank"href="https://mail.google.com/mail/?view=cm&source=mailto&to=r.salnikov1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://t.me/R0tmayer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-    <a target="_blank"href="https://www.instagram.com/roman.salnikov_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-</p>
-            
