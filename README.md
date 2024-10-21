@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! <br><br>I'm a backend developer from Vladivostok, Russia [UTC+10] 🚀 working since 2020 </h2>
+<h2 align="left">Hi there👋! <br><br>I'm a Backend Developer from Vladivostok, Russia [UTC+10] 🚀 working since 2020 </h2>
 
 <h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=emotion" height="35" alt="csharp logo"/> Job<h3/>
 <h4 align="left"> I’m currently working as full-time backend developer in FinTech company </h4>
