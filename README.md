@@ -1,12 +1,10 @@
 <h2 align="left">Hi there👋! <br><br>I'm a backend developer from Vladivostok, Russia [UTC+10] 🚀 working since 2020 </h2>
 
 <h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=emotion" height="35" alt="csharp logo"/> Job<h3/>
-<div align="left"> I’m currently working as full-time backend developer in FinTech company </div>
-<br/>
+<h4 align="left"> I’m currently working as full-time backend developer in FinTech company </h4>
 
 <h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=codepen" height="35" alt="csharp logo"/> Hobby<h3/>
-<div align="left">As hobby I'm learning technologies on my PetProjeсt <a href="https://github.com/R0tmayer/GamePlaza">GamePlaza</a></div>
-<br/>
+<h4 align="left">As hobby I'm learning technologies on my PetProjeсt <a href="https://github.com/R0tmayer/GamePlaza">GamePlaza</a></h4>
 
 <h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=htmx" height="35" alt="csharp logo"/> Stack<h3/>
 <div align="left">
@@ -19,7 +17,6 @@
   <img src="https://skillicons.dev/icons?i=vite" height="35" alt="vite logo"  />
   <img src="https://skillicons.dev/icons?i=pinia" height="35" alt="pinia logo"  />
 </div>
-<br/>
 
 <h3 align="left"><img align="center" src="https://skillicons.dev/icons?i=devto" height="35" alt="csharp logo"/> Tools<h3/>
 <div align="left">
